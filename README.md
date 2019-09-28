@@ -3,7 +3,8 @@
 
 Order boards [here](https://oshpark.com/shared_projects/MGq1ECv4 "https://oshpark.com/shared_projects/MGq1ECv4")
 
-[PROGRAMMING-PORT](https://github.com/nmorgret/Attiny-Port.git "https://github.com/nmorgret/Attiny-Port.git") (reuseable)
+[PROGRAMMING-PORT](https://oshpark.com/shared_projects/NzWPFJYF "https://oshpark.com/shared_projects/NzWPFJYF") (reuseable)
+[Github](https://github.com/nmorgret/Attiny-Port.git "https://github.com/nmorgret/Attiny-Port.git")
 
 Partlist exported at 9/28/19 4:51 PM
 
