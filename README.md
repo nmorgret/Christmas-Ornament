@@ -1,6 +1,7 @@
 # Christmas-Ornament
 **CR2032 powered, attiny controlled, Neopixel ornament**
 
+Order boards [here](https://oshpark.com/shared_projects/MGq1ECv4 "https://oshpark.com/shared_projects/MGq1ECv4")
 
 Partlist exported at 9/28/19 4:51 PM
 
