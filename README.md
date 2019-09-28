@@ -2,6 +2,7 @@
 **CR2032 powered, attiny controlled, Neopixel ornament**
 
 Order boards [here](https://oshpark.com/shared_projects/MGq1ECv4 "https://oshpark.com/shared_projects/MGq1ECv4")
+[PROGRAMMING-PORT](https://github.com/nmorgret/Attiny-Port.git "https://github.com/nmorgret/Attiny-Port.git") (reuseable)
 
 Partlist exported at 9/28/19 4:51 PM
 
