@@ -5,7 +5,7 @@
 Partlist exported at 9/28/19 4:51 PM
 
 **Part Value                           Device                           Package                      Description**                                                                   
-BT1  3V                              BATTERY-20MM_SMD_4LEGS_OVERPASTE BATTCON_20MM_4LEGS_OVERPASTE Battery - Single Cell                                                         
+| BT1 | 3V                             | BATTERY-20MM_SMD_4LEGS_OVERPASTE BATTCON_20MM_4LEGS_OVERPASTE Battery - Single Cell                                                         
 C1   1uF                             C-USC0402                        C0402                        CAPACITOR, American symbol                                                    
 IC1  ATTINY85-20SU                   ATTINY85-20SU                    SOT127P798X216-8N            MICROCHIP - ATTINY85-20SU - MICROCONTROLLER MCU, 8 BIT, ATTINY, 20MHZ, SOIC-8 
 R1   10k                             R-US_R0402                       R0402                        RESISTOR, American symbol                                                     
